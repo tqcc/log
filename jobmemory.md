@@ -9,3 +9,10 @@
 
 springbootの開発は面倒くさいですね。ORMもない、Laravelと比べて、開発スピードは亀速度！
 
+２３日：
+
+spring bootのフルスタック開発がメインです。
+DAPPの修正
+
+24日：
+bitcoin出金処理
